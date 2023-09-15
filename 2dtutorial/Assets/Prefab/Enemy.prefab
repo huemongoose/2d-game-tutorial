@@ -100,6 +100,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
+  manager: {fileID: 0}
+  enemylaser: {fileID: 8100395383186310583, guid: a81844232338f0242959667f09ed33a6, type: 3}
 --- !u!58 &2027103678746536450
 CircleCollider2D:
   m_ObjectHideFlags: 0

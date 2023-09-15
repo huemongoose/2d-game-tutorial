@@ -5,7 +5,7 @@ using UnityEngine;
 public class enemyLaser : MonoBehaviour
 {
     // Start is called before the first frame update
-    [SerializeField] float elaserspeed = 1.0f;
+    [SerializeField] float elaserspeed = 12;
     void Start()
     {
         
